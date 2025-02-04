@@ -22,18 +22,18 @@ Provide Insights to the Management in Consumer Goods Domain
 ## Dataset overview
 . The dataset comprises 6 main tables detailing various aspects of Atliq Hardwares' business operations.
 
-. Customer Insights: Details customer platforms, sales channels, and regions (dim_customer).
+. **Customer Insights**: Details customer platforms, sales channels, and regions (dim_customer).
 
-. Product Data: Categorizes products by division, segment, and variants (dim_product).
+. **Product Data**: Categorizes products by division, segment, and variants (dim_product).
 
-. Financial Metrics: Covers gross prices, manufacturing costs, and pre-invoice deductions.
+. **Financial Metrics**: Covers gross prices, manufacturing costs, and pre-invoice deductions.
 
-. Sales Performance: Tracks monthly sales by product and customer (fact_sales_monthly).
+. **Sales Performance**: Tracks monthly sales by product and customer (fact_sales_monthly).
 
 . The dataset spans fiscal years 2020 and 2021, facilitating both historical and comparative analysis.
 
 ## AtliQ Hardwares - at a Glance
-**Market*
+**Market**
 - Total 74 customers spanned around 27 countries.
 
 . Asia Pacific (APAC)
@@ -44,43 +44,45 @@ Provide Insights to the Management in Consumer Goods Domain
 
 . Latin America (LATAM)
 
-**Sales Channels*
-. Brick & Mortar (Physical store/location)
+**Sales Channels**
+. **Brick & Mortar** (Physical store/location)
 
-. E-Commerce (Online)
+. **E-Commerce** (Online)
 
-**Channels used for distribution*
-. Retailers (Physical or online stores that sell products to consumers)
+**Channels used for distribution**
+. **Retailers** (Physical or online stores that sell products to consumers)
 
-. Direct (Sales made directly to consumers through a company's website or other direct means)
+. **Direct** (Sales made directly to consumers through a company's website or other direct means)
 
-. Distributors (Intermediaries or middlemen between the manufacturer and retailer or end consumers.)
+. **Distributors** (Intermediaries or middlemen between the manufacturer and retailer or end consumers.)
 
-**Products*
+**Products**
 - 397 Products ranges in the below segments
 
-. Peripherals (keyboard, mouse, monitor, etc.)
+. **Peripherals** (keyboard, mouse, monitor, etc.)
 
-. Accessories (cases, cooling solutions, power supplies)
+. **Accessories** (cases, cooling solutions, power supplies)
 
-. Notebook (laptops)
+. **Notebook** (laptops)
 
-. Desktop (desktops, all-in-one PCs, etc.)
+. **Desktop** (desktops, all-in-one PCs, etc.)
 
-. Storage (hard disks, SSDs, external storage)
+. **Storage** (hard disks, SSDs, external storage)
 
-. Networking (routers, switches, modems, etc.)
+. **Networking** (routers, switches, modems, etc.)
 
 - The products categorized into different variants too such as Standard, Plus, Premium that represent different versions of the same product.
 
 ## Tools Used
-. MySQL (Querying and analysis)
+. **MySQL** (Querying and analysis)
 
-. Power BI (For Visualization)
+. **Power BI** (For Visualization)
 
-. Excel (For Visualization)
+. **Excel** (For Visualization)
 
-- SQL Techniques Used: Subqueries, Multiple Joins, CTEs, Window Functions & more.
+. **PowerPoint** (Key Findings Presentation)
+
+- **SQL Techniques Used:** Subqueries, Multiple Joins, CTEs, Window Functions & more.
 
 
 ## Insights & Key takeaways
