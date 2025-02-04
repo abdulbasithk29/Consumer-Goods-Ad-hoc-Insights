@@ -36,13 +36,13 @@ Provide Insights to the Management in Consumer Goods Domain
 **Market**
 - Total 74 customers spanned around 27 countries.
 
-. Asia Pacific (APAC)
+. **Asia Pacific (APAC)**
 
-. Europe (EU)
+. **Europe (EU)**
 
-. North America (NA)
+. **North America (NA)**
 
-. Latin America (LATAM)
+. **Latin America (LATAM)**
 
 **Sales Channels**
 . **Brick & Mortar** (Physical store/location)
