@@ -45,11 +45,13 @@ Provide Insights to the Management in Consumer Goods Domain
 . **Latin America (LATAM)**
 
 **Sales Channels**
+
 . **Brick & Mortar** (Physical store/location)
 
 . **E-Commerce** (Online)
 
 **Channels used for distribution**
+
 . **Retailers** (Physical or online stores that sell products to consumers)
 
 . **Direct** (Sales made directly to consumers through a company's website or other direct means)
@@ -57,6 +59,7 @@ Provide Insights to the Management in Consumer Goods Domain
 . **Distributors** (Intermediaries or middlemen between the manufacturer and retailer or end consumers.)
 
 **Products**
+
 - 397 Products ranges in the below segments
 
 . **Peripherals** (keyboard, mouse, monitor, etc.)
@@ -74,6 +77,7 @@ Provide Insights to the Management in Consumer Goods Domain
 - The products categorized into different variants too such as Standard, Plus, Premium that represent different versions of the same product.
 
 ## Tools Used
+
 . **MySQL** (Querying and analysis)
 
 . **Power BI** (For Visualization)
@@ -84,7 +88,7 @@ Provide Insights to the Management in Consumer Goods Domain
 
 - **SQL Techniques Used:** Subqueries, Multiple Joins, CTEs, Window Functions & more.
 
-
 ## Insights & Key takeaways
+
 **Attached the presentation and Ad-hoc request solutions*
 
