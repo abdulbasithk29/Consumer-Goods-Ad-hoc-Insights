@@ -1,7 +1,7 @@
 # Consumer-Goods-Ad-hoc-Insights
 Provide Insights to the Management in Consumer Goods Domain
 
-# Problem Statement
+## Problem Statement
 -Atliq Hardwares (Imaginary Company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 -The company struggles to derive actionable insights for decision-making.**
 -A lack of robust data analytics limits their ability to address business challenges effectively.
