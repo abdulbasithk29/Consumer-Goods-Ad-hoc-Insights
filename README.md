@@ -2,7 +2,7 @@
 Provide Insights to the Management in Consumer Goods Domain
 
 # Problem Statement
-**Atliq Hardwares (Imaginary Company) is one of the leading computer hardware producers in India and well expanded in other countries too.**
+--Atliq Hardwares (Imaginary Company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 **The company struggles to derive actionable insights for decision-making.**
 **A lack of robust data analytics limits their ability to address business challenges effectively.**
 **So, they decided to conduct a SQL challenge to hire someone to expand their data analytics team.**
