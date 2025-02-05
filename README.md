@@ -2,7 +2,7 @@
 Provide Insights to the Management in Consumer Goods Domain
 
 ## Problem Statement
-. Atliq Hardwares (Imaginary Company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+. Atliq Hardwares is one of the leading computer hardware producers in India and well expanded in other countries too.
 
 . The company struggles to derive actionable insights for decision-making.
 
